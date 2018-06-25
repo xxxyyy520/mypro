@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#移动YWS
+RewriteRule ^([A-Za-z]+)/(.+)/([A-Za-z]+)$	index.php?mod=$1&ac=$3&id=$2		 		[QSA,L]
+RewriteRule ^([A-Za-z]+)/([A-Za-z]+)$		index.php?mod=$1&ac=$2		 			[QSA,L]
+</IfModule>

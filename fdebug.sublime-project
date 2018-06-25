@@ -1,0 +1,42 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:\\xampp\\htdocs\\shuiorgadmin"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\百度网盘下载\\whjj"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\jdorders"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\members"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\yun"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\libaes-php"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\WxpayAPI_php_v3.0.1"
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"close_on_stop": true,
+			"path_mapping":
+			{
+			},
+			"port": 9000,
+			"super_globals": true,
+			"url": "http://localhost/yws/jdfw/test"
+		}
+	}
+}

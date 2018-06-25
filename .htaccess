@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^data/(.*).(gif|jpg|jpeg|bmp|png)$   	https://file.shui.cn/data/$1.$2   [R,NC,L]
+
+RewriteRule ^([A-Za-z]+)/([A-Za-z0-9]+)([/]?)$		index.php?mod=$1&ac=$2	[QSA,L]
+RewriteRule ^([A-Za-z]+)/([A-Za-z0-9]+).html$		index.php?mod=$1&ac=$2	[QSA,L]
+RewriteRule ^([A-Za-z]+)([/]?)$						index.php?mod=$1		[QSA,L]
+RewriteRule ^([A-Za-z]+).html$						index.php?mod=$1		[QSA,L]
+RewriteRule ^([/]?)$								index.php				[QSA,L]
+
+</IfModule>

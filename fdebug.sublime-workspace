@@ -1,0 +1,1728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"us",
+				"userid"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"or",
+				"ordersid"
+			],
+			[
+				"en",
+				"encText"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"p",
+				"price_array"
+			],
+			[
+				"crea",
+				"create_time"
+			],
+			[
+				"jobs",
+				"jobsid"
+			],
+			[
+				"a",
+				"ary"
+			],
+			[
+				"m",
+				"material_ary"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"job",
+				"jobsid"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"page",
+				"pageid"
+			],
+			[
+				"ma",
+				"material_array"
+			],
+			[
+				"num",
+				"num_array"
+			],
+			[
+				"code",
+				"code_array"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"call",
+				"calltime"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"bu",
+				"buy_param_json"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pu",
+				"putenv"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"receive",
+				"receiveorder"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"ser",
+				"serviceId"
+			],
+			[
+				"id",
+				"serviceId"
+			],
+			[
+				"orders",
+				"ordersid"
+			],
+			[
+				"getr",
+				"getroew"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ar",
+				"ary1"
+			],
+			[
+				"d",
+				"def\tdefine(…, …)"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"as",
+				"asort"
+			],
+			[
+				"conn",
+				"connection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/action/zhengxin.php",
+			"settings":
+			{
+				"buffer_size": 10308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/action/baitiao.php",
+			"settings":
+			{
+				"buffer_size": 20277,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.index.php",
+			"settings":
+			{
+				"buffer_size": 2901,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/modules/zhengxin.php",
+			"settings":
+			{
+				"buffer_size": 11980,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "zhengxin.php"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.orders.php",
+			"settings":
+			{
+				"buffer_size": 3960,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.pay.php",
+			"settings":
+			{
+				"buffer_size": 4482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpfmt",
+				"phpfmt: update PHP binary path"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/members",
+		"/D/xampp/htdocs/yun",
+		"/D/xampp/htdocs/yun/borrow",
+		"/D/xampp/htdocs/yun/borrow/app",
+		"/D/xampp/htdocs/yun/borrow/app/action",
+		"/D/xampp/htdocs/yun/borrow/app/modules",
+		"/D/xampp/htdocs/yun/borrow/app/view"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/yun/borrow/app/modules/baitiao.php",
+		"/D/xampp/htdocs/yun/borrow/app/action/baitiao.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/baitiao.msg.php",
+		"/D/xampp/htdocs/yun/borrow/app/modules/author.php",
+		"/D/xampp/htdocs/yun/borrow/app/modules/users.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.orders.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.ordersviews.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.pay.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.msg.php",
+		"/D/xampp/htdocs/yun/borrow/app/modules/product.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.list.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.index.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.huodong.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.views.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.submit.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.return.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/zhengxin.payed.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/baitiao.views.php",
+		"/D/xampp/htdocs/yws/app/action/jdfw.php",
+		"/D/xampp/htdocs/yun/app/modules/users.php",
+		"/D/xampp/htdocs/yws/app/view/jdfw.lists.php",
+		"/D/xampp/htdocs/yun/borrow/app/view/baitiao.orders.php",
+		"/D/xampp/htdocs/yws/app/view/config.script.php",
+		"/C/Users/15671/Desktop/数据/baitiao_borrow.sql",
+		"/D/xampp/htdocs/yun/lib/cookie.php",
+		"/D/xampp/htdocs/a.php",
+		"/D/xampp/htdocs/test.php",
+		"/D/xampp/htdocs/yws/app/view/alipay.borrow.lists.php",
+		"/D/xampp/htdocs/yws/js/alipay.borrow.js",
+		"/D/xampp/htdocs/yws/app/modules/alifuwu.php",
+		"/D/xampp/htdocs/yws/app/action/borrow.php",
+		"/D/xampp/htdocs/yun/borrow/app/action/zhengxin.php",
+		"/D/xampp/htdocs/yun/borrow/app/action/kaola.php",
+		"/D/xampp/htdocs/yws/app/view/alipay.borrow.dialog.php",
+		"/D/xampp/htdocs/yws/app/view/alipay.borrow.views.php",
+		"/D/xampp/htdocs/libaes-php/aes.php",
+		"/D/xampp/htdocs/yun/lib/aeshelper.php",
+		"/D/xampp/htdocs/yun/config/dbconfig.php",
+		"/D/xampp/htdocs/libaes-php/AesHelper.php",
+		"/D/xampp/htdocs/yun/sftp-config.json",
+		"/C/Users/15671/Desktop/EncryptTest.java",
+		"/D/xampp/htdocs/yws/app/action/orders.php",
+		"/D/xampp/htdocs/yws/app/view/jdfw.views.php",
+		"/D/xampp/htdocs/yws/app/modules/jdfw.php",
+		"/C/Users/15671/Desktop/数据/jdfw_orders.sql",
+		"/D/xampp/htdocs/yws/app/view/express.print.whehtky2.php",
+		"/D/xampp/htdocs/yws/app/view/invoice.views.php",
+		"/D/xampp/htdocs/yws/app/view/express.print.htky.php",
+		"/D/xampp/htdocs/jdorders/orders.php",
+		"/D/xampp/htdocs/yws/app/view/jdfw.dialog.php",
+		"/D/xampp/htdocs/members/app/action/return.php",
+		"/D/xampp/htdocs/members/app/modules/message.php",
+		"/D/xampp/htdocs/WxpayAPI_php_v3.0.1/lib/WxPay.Api.php",
+		"/D/xampp/htdocs/WxpayAPI_php_v3.0.1/lib/WxPay.Config.php",
+		"/D/xampp/htdocs/WxpayAPI_php_v3.0.1/lib/WxPay.Data.php",
+		"/D/xampp/htdocs/yun/borrow/app/action/qq.php",
+		"/C/Users/15671/Desktop/js.html",
+		"/C/Users/15671/Desktop/js.js",
+		"/D/xampp/htdocs/yws/js/jdfw.js",
+		"/D/xampp/htdocs/yws/app/view/frm.orders.php",
+		"/D/xampp/htdocs/yws/app/view/orders.list.php",
+		"/D/xampp/htdocs/yun/lib/curl.php",
+		"/D/xampp/htdocs/yun/lib/app.php",
+		"/D/xampp/htdocs/yun/lib/cache.php",
+		"/D/xampp/htdocs/yws/app/modules/logs.php",
+		"/D/xampp/htdocs/yws/lib/app.php",
+		"/D/xampp/htdocs/yws/app/modules/jobs.php",
+		"/D/xampp/htdocs/yws/config/odb.php",
+		"/D/xampp/htdocs/yws/config/odbconfig.php",
+		"/C/Users/15671/Desktop/数据/odb.php",
+		"/D/xampp/htdocs/yun/lib/cryptaes.php",
+		"/D/xampp/htdocs/yun/app/action/index.php",
+		"/D/xampp/htdocs/yun/borrow/app/action/author.php",
+		"/D/xampp/htdocs/members/app/action/login.php",
+		"/D/xampp/htdocs/members/app/action/register.php",
+		"/D/xampp/htdocs/members/app/modules/users.php",
+		"/D/xampp/htdocs/mns/AliyunMNS/Common/XMLParser.php",
+		"/D/xampp/htdocs/members/app/action/getpwd.php",
+		"/D/xampp/htdocs/mns/send.php",
+		"/D/xampp/htdocs/members/lib/alimns/AliyunMNS/Responses/BaseResponse.php",
+		"/D/百度网盘下载/whjj/protected/extensions/qrcode/phpqrcode/tools/merged_header.php",
+		"/D/xampp/htdocs/members/lib/message.php",
+		"/D/xampp/htdocs/members/lib/app.php",
+		"/D/xampp/htdocs/members/config/dbconfig.php",
+		"/C/Users/15671/Desktop/数据/jdfw_material.sql",
+		"/D/xampp/htdocs/yws/js/orders.charge.js",
+		"/D/xampp/htdocs/yws/app/view/frm.jobs.php",
+		"/D/xampp/htdocs/yws/app/action/jobs.php",
+		"/D/xampp/htdocs/yws/app/view/orders.viewinfo.php",
+		"/D/xampp/htdocs/yws/app/view/jobs.list.php",
+		"/D/xampp/htdocs/yws/js/frm.jobs.js",
+		"/D/xampp/htdocs/yws/app/view/store.charge.php",
+		"/D/xampp/htdocs/yws/js/orders.store.js",
+		"/D/xampp/htdocs/yws/js/orders.jobs.js",
+		"/D/xampp/htdocs/yws/js/jobs.js",
+		"/D/百度网盘下载/whjj/protected/views/trafficbreak/infoquery.php",
+		"/D/xampp/htdocs/jdorders/sync.jdfw.php",
+		"/D/xampp/htdocs/dysms_php/php/msg_demo/MsgDemo.php",
+		"/D/xampp/htdocs/dysms_php/php/api_demo/SmsDemo.php",
+		"/D/xampp/htdocs/yws/js/frame.js",
+		"/D/xampp/htdocs/jdorders/config/dbpdo.php",
+		"/D/xampp/htdocs/yws/js/plugin.js",
+		"/D/xampp/htdocs/yws/lib/dbmongo.php",
+		"/D/xampp/htdocs/sync.jdfw.php",
+		"/D/xampp/phpMyAdmin/libraries/sql-parser/src/Context.php",
+		"/D/xampp/xdebug/trace/trace.3399961151.xt",
+		"/C/Users/15671/Desktop/order.sql",
+		"/D/xampp/htdocs/yws/app/modules/orders.php",
+		"/D/xampp/xdebug/profiler/cachegrind.out.31056",
+		"/D/xampp/htdocs/yws/lib/https.php",
+		"/D/xampp/htdocs/yws/index.php",
+		"/D/xampp/htdocs/yws/fdebug.sublime-project",
+		"/C/Users/15671/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/D/百度网盘下载/whjj/protected/views/trafficbreak/index.php",
+		"/D/百度网盘下载/whjj/protected/views/trafficbreak/infoinput.php",
+		"/C/Users/15671/Desktop/a.php",
+		"/C/Users/15671/Desktop/数据/jdfw_encode.sql",
+		"/D/xampp/htdocs/yws/lib/curl.php",
+		"/C/Users/15671/Downloads/php_memcache-3.0.8-5.6-ts-vc11-x86/example.php",
+		"/D/xampp/htdocs/jdy/querywaitdispatchtask.php",
+		"/D/xampp/htdocs/yws/app/modules/xls.php",
+		"/D/xampp/htdocs/crontab/xlstoyws.php",
+		"/D/xampp/htdocs/yws/lib/pagenav.php",
+		"/D/xampp/htdocs/yws/lib/restful.php",
+		"/D/百度网盘下载/whjj/protected/components/SendMessage.php",
+		"/D/百度网盘下载/whjj/protected/components/HbjjController.php",
+		"/D/xampp/htdocs/yws/app/modules/users.php",
+		"/D/xampp/htdocs/jdy/callphone.php"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 177.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\yun\\borrow",
+			"D:\\xampp\\htdocs\\yws",
+			"D:\\xampp\\htdocs\\members",
+			"D:\\xampp\\htdocs\\yun",
+			"D:\\xampp\\htdocs\\members",
+			"D:\\百度网盘下载\\whjj",
+			"D:\\xampp\\htdocs\\yws",
+			"D:\\百度网盘下载\\whjj\\protected",
+			"D:\\xampp\\htdocs\\yws\\app\\modules",
+			"D:\\xampp\\htdocs\\yws",
+			"D:\\xampp\\htdocs\\yws\\js",
+			"D:\\百度网盘下载\\whjj\\protected\\controllers",
+			"D:\\xampp\\htdocs\\jos-php-open-api-sdk-2.0\\jd\\request",
+			"D:\\xampp\\htdocs\\shuiorgadmin",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pname",
+			"baiinfo",
+			"baitiao",
+			"isCashs",
+			"baitiao",
+			"立刻租赁",
+			"openid",
+			"baitiao",
+			"ordersform",
+			"openid",
+			"baitiao",
+			"baitiao_borrow",
+			"baitiao",
+			"author",
+			"baitiao_borrow",
+			"userinfo",
+			"mobile",
+			"order_no",
+			"apply",
+			"order_no",
+			"openId",
+			"_check_evn",
+			"_gen_iv",
+			"iscancel",
+			"engineerTel",
+			"engineerName",
+			"engineerPin",
+			"whehtky2",
+			"订单号",
+			"isgetpayurl",
+			"status",
+			"jobsid",
+			"provid",
+			"status",
+			"provid",
+			"jobsid",
+			"addTab",
+			"errMsg",
+			"18963943385",
+			"isallot",
+			"mcrypt_encrypt",
+			"aeshelper",
+			"AesHelper",
+			"verifyimg",
+			"度人员",
+			"请联系调度人员",
+			"upworktype",
+			"jobsid",
+			"upworktype",
+			"add",
+			"upworktype",
+			"jobsid",
+			"add",
+			"$_POST['id']",
+			"serviceId",
+			"ordersid",
+			"status",
+			"serviceId",
+			"频繁",
+			"wgShowExceptionDetails",
+			"系统禁止繁琐操作，请1小时后再试！",
+			"name",
+			"add",
+			"getmaterials",
+			"id",
+			"jobs",
+			"导出工单",
+			"ul",
+			"material_json",
+			"num",
+			"material_json",
+			"id",
+			"material_ary",
+			"ordersid",
+			"serviceId",
+			"jobsid",
+			"worked",
+			"status",
+			"全部订单",
+			"serviceId",
+			"code",
+			"materialCode",
+			"num",
+			"materialName",
+			"materialCode",
+			"亿家净水",
+			"$userinfo['name']",
+			"12345678901",
+			"分派工程师",
+			"serviceId",
+			"jdfw",
+			"isallot",
+			"upworktype",
+			"ordersid",
+			"status=",
+			"status",
+			"material",
+			"content",
+			"openDialog",
+			"session",
+			"salesid",
+			"calltime",
+			"isreject",
+			"orders",
+			"  $set = '->已取消';\n                                  }",
+			"isfinish",
+			"aui_dialog",
+			"<table",
+			"div",
+			"isfinish",
+			"asmsServiceId",
+			"arrContextOptions",
+			"isconfirm",
+			"operatorName",
+			"operatorPin",
+			"venderCode",
+			"serviceId",
+			"operatorName",
+			"operatorPin",
+			"venderCode",
+			"serviceId",
+			"isconfirm",
+			"response",
+			"responce",
+			"venderCode",
+			"isconfirm",
+			"quoteItemDetailId",
+			"&"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"zhengxin",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/xampp/htdocs/yun/borrow/app/action/zhengxin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5010,
+								5010
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5911,
+										5912
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2995,
+										2996
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/xampp/htdocs/yun/borrow/app/action/baitiao.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2461,
+								2467
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2467,
+										2468
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2417,
+										2418
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/xampp/htdocs/yun/borrow/app/modules/zhengxin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7905,
+								7905
+							]
+						],
+						"settings":
+						{
+							"auto_name": "zhengxin.php",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										7914,
+										7915
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										7707,
+										7708
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4002.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.orders.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1825,
+								1825
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1826,
+										1827
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1819,
+										1820
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/xampp/htdocs/yun/borrow/app/view/zhengxin.pay.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1531,
+								1531
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1607,
+										1608
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1527,
+										1528
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 156.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fdebug.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"baitiao.php",
+				"yun\\borrow\\app\\action\\baitiao.php"
+			],
+			[
+				"zhengxin.ordersviews.php",
+				"yun\\borrow\\app\\view\\zhengxin.ordersviews.php"
+			],
+			[
+				"zhengxin",
+				"yun\\borrow\\app\\modules\\zhengxin.php"
+			],
+			[
+				"jdfw",
+				"yws\\app\\action\\jdfw.php"
+			],
+			[
+				"config.script.php",
+				"yws\\app\\view\\config.script.php"
+			],
+			[
+				"jdfw.lis",
+				"yws\\app\\view\\jdfw.lists.php"
+			],
+			[
+				"baitiao.views.php",
+				"yun\\borrow\\app\\view\\baitiao.views.php"
+			],
+			[
+				"baitiao.orders.php",
+				"yun\\borrow\\app\\view\\baitiao.orders.php"
+			],
+			[
+				"cookie",
+				"yun\\lib\\cookie.php"
+			],
+			[
+				"alifu",
+				"yws\\app\\modules\\alifuwu.php"
+			],
+			[
+				"borrow",
+				"yws\\app\\action\\borrow.php"
+			],
+			[
+				"alipay.borrow.js",
+				"yws\\js\\alipay.borrow.js"
+			],
+			[
+				"alipay.borrow.lists.php",
+				"yws\\app\\view\\alipay.borrow.lists.php"
+			],
+			[
+				"alipay.borrow.views.php",
+				"yws\\app\\view\\alipay.borrow.views.php"
+			],
+			[
+				"alipay.borrow.dialog.php",
+				"yws\\app\\view\\alipay.borrow.dialog.php"
+			],
+			[
+				"express.print.whehtky2.php",
+				"yws\\app\\view\\express.print.whehtky2.php"
+			],
+			[
+				"order",
+				"yws\\app\\action\\orders.php"
+			],
+			[
+				"jdfw.view",
+				"yws\\app\\view\\jdfw.views.php"
+			],
+			[
+				"express.print.htky.php",
+				"yws\\app\\view\\express.print.htky.php"
+			],
+			[
+				"orders",
+				"jdorders\\orders.php"
+			],
+			[
+				"jdfw.d",
+				"yws\\app\\view\\jdfw.dialog.php"
+			],
+			[
+				"jdfw.list",
+				"yws\\app\\view\\jdfw.lists.php"
+			],
+			[
+				"jdfw.v",
+				"yws\\app\\view\\jdfw.views.php"
+			],
+			[
+				"jdfwjs",
+				"yws\\js\\jdfw.js"
+			],
+			[
+				"jobs",
+				"yws\\app\\modules\\jobs.php"
+			],
+			[
+				"jdf.list",
+				"yws\\app\\view\\jdfw.lists.php"
+			],
+			[
+				"jd",
+				"yws\\app\\action\\jdfw.php"
+			],
+			[
+				"xmlreader",
+				"whjj\\protected\\extensions\\qrcode\\phpqrcode\\tools\\merged_header.php"
+			],
+			[
+				"baseresponse",
+				"members\\lib\\alimns\\AliyunMNS\\Responses\\BaseResponse.php"
+			],
+			[
+				"xmlparser",
+				"mns\\AliyunMNS\\Common\\XMLParser.php"
+			],
+			[
+				"frm.jobs",
+				"yws\\app\\view\\frm.jobs.php"
+			],
+			[
+				"orders.store.js",
+				"yws\\js\\orders.store.js"
+			],
+			[
+				"store.c",
+				"yws\\app\\view\\store.charge.php"
+			],
+			[
+				"frm.jobs.js",
+				"yws\\js\\frm.jobs.js"
+			],
+			[
+				"frm",
+				"yws\\app\\view\\frm.jobs.php"
+			],
+			[
+				"jobs.",
+				"yws\\app\\view\\jobs.list.php"
+			],
+			[
+				"jobs.l",
+				"yws\\app\\view\\jobs.list.php"
+			],
+			[
+				"orders.jobs.js",
+				"yws\\js\\orders.jobs.js"
+			],
+			[
+				"jobs.js",
+				"yws\\js\\jobs.js"
+			],
+			[
+				"jobs.list",
+				"yws\\app\\view\\jobs.list.php"
+			],
+			[
+				"infoquer",
+				"whjj\\protected\\views\\trafficbreak\\infoquery.php"
+			],
+			[
+				"dbmongo",
+				"yws\\lib\\dbmongo.php"
+			],
+			[
+				"trafficb",
+				"whjj\\protected\\views\\trafficbreak\\infoquery.php"
+			],
+			[
+				"trafficbr",
+				"whjj\\protected\\views\\trafficbreak\\infoinput.php"
+			],
+			[
+				"trafficbreak",
+				"whjj\\protected\\views\\trafficbreak\\index.php"
+			],
+			[
+				"pagenav",
+				"yws\\lib\\pagenav.php"
+			],
+			[
+				"config",
+				"yws\\app\\view\\config.script.php"
+			],
+			[
+				"",
+				"yws\\app\\action\\jdfw.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"14":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"15":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 6
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 400.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

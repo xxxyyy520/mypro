@@ -1,0 +1,7 @@
+org.eclipse.wst.common.project.facet.core.xml
+/data/
+/config/
+.idea
+nbproject/project.xml
+nbproject/
+sftp-config.json
